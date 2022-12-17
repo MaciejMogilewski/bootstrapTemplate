@@ -1,0 +1,24 @@
+{
+  "name": "bootstraptemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass":"sass --watch ./src/sass/main.scss ./src/styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejMogilewski/bootstrapTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejMogilewski/bootstrapTemplate/issues"
+  },
+  "homepage": "https://github.com/MaciejMogilewski/bootstrapTemplate#readme",
+  "dependencies": {
+    "sass": "^1.57.0"
+  }
+}
